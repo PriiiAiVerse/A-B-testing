@@ -1,0 +1,8 @@
+numpy
+pandas 
+matplotlib
+seaborn 
+shapiro
+levene
+ttest_ind
+mannwhitneyu
